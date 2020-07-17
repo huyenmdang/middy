@@ -46,7 +46,8 @@
     "ajv": "^6.5.0",
     "ajv-i18n": "^3.3.0",
     "ajv-keywords": "^3.2.0",
-    "http-errors": "^1.6.3"
+    "http-errors": "^1.6.3",
+    "ajv-errors": "^1.0.1"
   },
   "devDependencies": {
     "@middy/core": "^1.0.0",
